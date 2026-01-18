@@ -25,7 +25,8 @@ La seguridad ciudadana en Bogotá requiere monitoreo ágil. Este proyecto simula
 
 El sistema permite filtrar miles de puntos en milisegundos, mostrando la ubicación exacta de incidentes y las tendencias horarias.
 
-![Bogota Security Dashboard](dashboard_preview.png)
+<img width="1903" height="781" alt="image" src="https://github.com/user-attachments/assets/4b9235d5-f483-46da-8f04-d39162b6738b" />
+
 
 *(Nota: Los datos mostrados son generados sintéticamente para fines de demostración técnica).*
 
